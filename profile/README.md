@@ -25,7 +25,7 @@ ServerOS connects to the servers you already rent, at any provider. It finds wha
 | Repo | What it is | License |
 | --- | --- | --- |
 | [panel](https://github.com/serveroshq/panel) | The ServerOS panel. Code is moving in now. | AGPL-3.0 |
-| [daemon](https://github.com/serveroshq/daemon) | `serverosd`, the agent that runs on your servers, and the gateway it connects through. Read exactly what runs on your machines. | BSL 1.1 |
+| [daemon](https://github.com/serveroshq/daemon) | `serverosd`, the agent that runs on your servers, and the gateway it connects through. Read exactly what runs on your machines. | AGPL-3.0 |
 
 Want to help? Start with the repo's `CONTRIBUTING.md`, say hi in [Discussions](https://github.com/serveroshq/panel/discussions), and report security problems privately to [security@serveros.com](mailto:security@serveros.com).
 
