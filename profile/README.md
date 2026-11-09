@@ -1,6 +1,15 @@
 <p align="center">
-  <a href="https://serveros.com"><img src="./banner.jpg" alt="ServerOS: one panel for the servers you already own" width="100%"></a>
+  <a href="https://serveros.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./logo-dark-mode.svg">
+      <img alt="ServerOS" src="./logo-light-mode.svg" width="72">
+    </picture>
+  </a>
 </p>
+
+<h1 align="center">ServerOS</h1>
+
+<p align="center">Deploy, back up and keep an eye on the Linux servers you already own.</p>
 
 <p align="center">
   <a href="https://status.serveros.com"><img src="https://status.serveros.com/badge.svg" alt="Status"></a>
@@ -8,6 +17,10 @@
   <a href="https://github.com/serveroshq/panel"><img alt="Open source panel" src="https://img.shields.io/badge/Panel-open%20source-2563eb?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://discord.gg/serveros"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20us-5865f2?style=flat-square&logo=discord&logoColor=white"></a>
   <a href="https://www.linkedin.com/company/serveros"><img alt="Follow ServerOS on LinkedIn" src="https://img.shields.io/badge/Follow-ServerOS-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="https://serveros.com"><img alt="The ServerOS dashboard: machines, average CPU, last backup and each machine's services" src="./dashboard.png" width="900"></a>
 </p>
 
 ## One panel for every server, yours or ours
