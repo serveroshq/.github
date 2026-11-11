@@ -48,7 +48,7 @@ Run the panel on your own server, free. You need a Linux server with Docker, por
 curl -fsSL https://raw.githubusercontent.com/serveroshq/panel/main/docker/self-hosted/install.sh | sudo bash -s -- --domain=panel.example.com --email=you@example.com
 ```
 
-It runs the official image, [`ghcr.io/serveroshq/panel`](https://github.com/serveroshq/panel/pkgs/container/panel), and prints a setup code for the web installer. The [self-hosting guide](https://docs.serveros.com/guides/self-hosting) has the rest.
+It runs the official image, [`ghcr.io/serveroshq/panel`](https://github.com/serveroshq/panel/pkgs/container/panel), and prints a setup code for the web installer. Then connect your servers from Machines › Connect machine: each one runs the [daemon](https://github.com/serveroshq/daemon), which connects out to your panel on port 8443. The [self-hosting guide](https://docs.serveros.com/guides/self-hosting) has the rest.
 
 ## Contributing
 
