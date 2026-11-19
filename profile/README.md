@@ -32,6 +32,7 @@ ServerOS connects to the servers you already rent, at any provider. It finds wha
 - **Run it all from one place.** Deploy your code or a one-click app, back up, monitor, read logs, and automate the rest with workflows.
 - **From your AI or your own code.** Every workspace has an MCP server for Claude, ChatGPT and Cursor, and a REST API.
 - **No server yet?** [ServerOS Cloud](https://serveros.com/cloud) gets you one with ServerOS already set up.
+- **Or a free month on Synteq.** Sign up to [Synteq](https://serveros.com/synteq/go?from=profile) through our link and your first VPS is free for a month.
 
 ## Open source
 
